@@ -17,9 +17,11 @@
   "bugs": {
     "url": "https://github.com/maximostrovskiy86/goit-js-hw-8/issues"
   },
-  "homepage": "https://github.com/maximostrovskiy86/goit-js-hw-8#readme",
+  "homepage": "https://github.com/maximostrovskiy86/goit-js-hw-8",
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
   },
   "dependencies": {
     "modern-normalize": "^2.0.0",
